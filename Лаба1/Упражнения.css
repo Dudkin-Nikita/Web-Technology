@@ -1,0 +1,19 @@
+header {
+	text-align: center;
+	color: red;
+}
+h2 {
+	text-align: center;
+	color: green;
+}
+nav {
+	text-align: center;
+	font-size: 15pt;
+}
+.main {
+	text-align: center;
+	font-size: 20pt;
+	background: yellow;
+	color: purple;
+	font-family: helvetica, arial, sans-serif;
+}
