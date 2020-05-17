@@ -1,0 +1,20 @@
+header {
+	text-align: center;
+	color: red;
+	font-family: Brush Script, cursive;
+}
+h2 {
+	text-align: center;
+	color: green;
+	font-family: Impact, fantasy;
+}
+nav {
+	text-align: center;
+	font-size: 15pt;
+}
+.main {
+	text-align: left;
+	font-size: 20pt;
+	color: cyan;
+	font-family: Tratatello, fantasy;
+}

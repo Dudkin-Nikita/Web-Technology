@@ -1,0 +1,33 @@
+header {
+	text-align: center;
+	font-family: Comic Sans, sans-serif;
+	color: red;
+}
+nav {
+	text-align: center;
+	font-size: 15pt;
+}
+h2 {
+	text-align: center;
+	color: green;
+	background: pink;
+}
+.main{
+	text-align: center;
+	font-size: 18pt;
+	color: orange;
+	font-family: helvetica, arial, sans-serif;
+}
+.list1 {
+	text-align: left;
+	font-size: 15pt;
+	color: blue;
+	font-family: helvetica, arial, sans-serif;
+}
+	
+.list2 {
+	text-align: left;
+	font-size: 15pt;
+	color: green;
+	font-family: helvetica, arial, sans-serif;
+}
